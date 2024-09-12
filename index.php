@@ -1,5 +1,6 @@
 <?php  
     require_once './header.php';
+    require_once './components/slider.php';
 ?>
     <div class="container">
         <div class="row">
